@@ -7,10 +7,10 @@
 
 <p align="center">📧 tony.tw3435@gmail.com</p>
 
-Software Engineering student at **Western University** (B.E.Sc., class of 2028), in the co-op program and based in Toronto. I'm interested in software development and full-stack development, and I build ML-powered web apps. I care about the parts that make software reliable: testing, evaluation and performance.
+Software Engineering student at **Western University** (B.E.Sc. '28) in the co-op program, based in Toronto. I'm a full-stack developer who builds ML-powered web apps, with a focus on what makes software reliable: testing, evaluation and performance.
 
-- 💻 Interested in **software development and full-stack web development**
-- 🧠 Also interested in **LLMs, evaluation and AI safety**
+- 💻 **Full-stack development:** React, TypeScript, Node.js, PostgreSQL
+- 🧠 **Machine learning:** LLMs, RAG, evaluation and AI safety
 - 💼 ML/AI Intern at Beijing Zhulong Information Technology (summer 2026): documented 6 recurring LLM failure modes across 500+ test cases and raised output accuracy from ~78% to ~91%
 - 🌐 Bilingual in English and Mandarin
 
@@ -22,13 +22,19 @@ Software Engineering student at **Western University** (B.E.Sc., class of 2028),
 RAG pipeline over 2,481 resumes in 24 job categories, combining a PyTorch classifier on Sentence-BERT embeddings, semantic search and LLM analysis. **92% retrieval precision.**
 `Python` `PyTorch` `Sentence-BERT` `ChromaDB` `FastAPI` `RAG`
 
+<a href="https://huggingface.co/spaces/Yue3435/RecruitAI"><img src="assets/recruitai.png" alt="RecruitAI landing page" width="600"></a>
+
 **[Neural Drawing Board](https://github.com/TonyW-Y/neural-network-drawing-board)** · [live demo](https://tonyw-y.github.io/neural-network-drawing-board/)
 Neural network built from scratch in NumPy, reaching **97.8% on MNIST** and 90.9% on EMNIST, with a live in-browser visualizer showing each neuron's ReLU(Wx + b).
 `Python` `NumPy` `TypeScript` `Vite` `Vitest`
 
+<a href="https://tonyw-y.github.io/neural-network-drawing-board/"><img src="assets/neural-drawing-board.png" alt="Neural Drawing Board landing page" width="600"></a>
+
 **[Deep Learning Chess Model](https://github.com/TonyW-Y/Neural-Network-Chess-Move-Prediction-Model)** · [live demo](https://huggingface.co/spaces/Yue3435/Chess_Deep_Learning_Model)
 4-layer residual CNN that predicts moves from 12×8×8 board tensors, trained on 3.8M positions with a streaming data pipeline. Deployed as a Dockerized Flask API on Hugging Face Spaces.
 `PyTorch` `CNN` `Flask` `Docker` `Hugging Face`
+
+<a href="https://huggingface.co/spaces/Yue3435/Chess_Deep_Learning_Model"><img src="assets/chess-model.png" alt="Deep Learning Chess Model landing page" width="600"></a>
 
 ### 🛠️ Software engineering
 
@@ -36,13 +42,19 @@ Neural network built from scratch in NumPy, reaching **97.8% on MNIST** and 90.9
 3D home renovation planner rendering floor plans at 60 fps, with a cost estimator backed by 239 unit tests. Cut initial JavaScript by 61% and textures by 81%. PostgreSQL schema with row-level security, tested against a Dockerized database.
 `TypeScript` `React` `Three.js` `Supabase` `Docker` `Tailwind CSS`
 
+<a href="https://renotion-six.vercel.app/"><img src="assets/renotion.png" alt="Renotion landing page" width="600"></a>
+
 **[StudyFinder](https://github.com/TonyW-Y/Study-Spot)** · [live demo](https://study-spot-two.vercel.app/)
 Geospatial study-spot finder covering 1,000+ locations with user reviews, ranked by real distance with the Haversine formula across 9 categories.
 `TypeScript` `React` `Mapbox` `Supabase` `Tailwind CSS`
 
+<a href="https://study-spot-two.vercel.app/"><img src="assets/studyfinder.png" alt="StudyFinder landing page" width="600"></a>
+
 **[NetFlux](https://github.com/TonyW-Y/MovieSite)** · [live demo](https://aiflix1.onrender.com/)
 Movie and TV streaming platform serving 1,000+ titles to 100+ users across 15 routes from 19 TMDB API endpoints, with bcrypt and httpOnly JWT authentication.
 `JavaScript` `React` `Node.js` `Express` `MongoDB`
+
+<a href="https://aiflix1.onrender.com/"><img src="assets/netflux.png" alt="NetFlux landing page" width="600"></a>
 
 ## Tech
 
