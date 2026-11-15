@@ -7,7 +7,7 @@
 
 <p align="center">📧 tony.tw3435@gmail.com</p>
 
-Software Engineering student at **Western University** (B.E.Sc. '28) in the co-op program, based in Toronto. I'm interested in software development and machine learning.
+Software Engineering student at **Western University** (B.E.Sc. '28) in the co-op program, based in Toronto. I'm passionate about building full-stack web applications and machine learning projects.
 
 - 💻 **Full-stack development:** React, TypeScript, Node.js, PostgreSQL
 - 🧠 **Machine learning:** LLMs, RAG, evaluation and AI safety
@@ -18,10 +18,6 @@ Software Engineering student at **Western University** (B.E.Sc. '28) in the co-o
 
 ### 🤖 Machine learning
 
-**[RecruitAI: AI Resume Screening & Job Matching](https://github.com/TonyW-Y/AI-Resume-Screening-Job-Matching-System)** · [live demo](https://huggingface.co/spaces/Yue3435/RecruitAI)
-RAG pipeline over 2,481 resumes in 24 job categories, combining a PyTorch classifier on Sentence-BERT embeddings, semantic search and LLM analysis. **92% retrieval precision.**
-`Python` `PyTorch` `Sentence-BERT` `ChromaDB` `FastAPI` `RAG`
-
 **[Neural Drawing Board](https://github.com/TonyW-Y/neural-network-drawing-board)** · [live demo](https://tonyw-y.github.io/neural-network-drawing-board/)
 Neural network built from scratch in NumPy, reaching **97.8% on MNIST** and 90.9% on EMNIST, with a live in-browser visualizer showing each neuron's ReLU(Wx + b).
 `Python` `NumPy` `TypeScript` `Vite` `Vitest`
@@ -29,6 +25,10 @@ Neural network built from scratch in NumPy, reaching **97.8% on MNIST** and 90.9
 **[Deep Learning Chess Model](https://github.com/TonyW-Y/Neural-Network-Chess-Move-Prediction-Model)** · [live demo](https://huggingface.co/spaces/Yue3435/Chess_Deep_Learning_Model)
 4-layer residual CNN that predicts moves from 12×8×8 board tensors, trained on 3.8M positions with a streaming data pipeline. Deployed as a Dockerized Flask API on Hugging Face Spaces.
 `PyTorch` `CNN` `Flask` `Docker` `Hugging Face`
+
+**[RecruitAI: AI Resume Screening & Job Matching](https://github.com/TonyW-Y/AI-Resume-Screening-Job-Matching-System)** · [live demo](https://huggingface.co/spaces/Yue3435/RecruitAI)
+RAG pipeline over 2,481 resumes in 24 job categories, combining a PyTorch classifier on Sentence-BERT embeddings, semantic search and LLM analysis. **92% retrieval precision.**
+`Python` `PyTorch` `Sentence-BERT` `ChromaDB` `FastAPI` `RAG`
 
 ### 🛠️ Software engineering
 
